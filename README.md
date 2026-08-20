@@ -4,15 +4,13 @@
 
 Drawn to solving problems that make the world a better place, and to building tools that developers love to use.
 
+All of my recent work has been done in public on GitHub.
+
 ## Available for work
 
 Open to **staff-level individual contributor** and **engineering leadership** roles. Remote preferred, based in Sydney, Australia. Available from **October 2026**. 
 
-> [!TIP] Resume
-> Full work history available in my [resume](https://egonat.me/Eric_Mastro_Resume.pdf).
-> References available upon request.
-
-Reach me at **hireme@egonat.me** · [egonat.me](https://egonat.me) · [LinkedIn](https://linkedin.com/in/ericmastro)
+Reach me at hireme@egonat.me · [egonat.me](https://egonat.me) · [LinkedIn](https://linkedin.com/in/ericmastro) · [Resume](https://egonat.me/Eric_Mastro_Resume.pdf)
 
 ---
 
@@ -20,7 +18,6 @@ Reach me at **hireme@egonat.me** · [egonat.me](https://egonat.me) · [LinkedIn]
 
 Below are some real world examples of protocol work to showcase how I approach problems and work, published in full:
 
-| | |
 |---|---|
 | [**Slot reservations**](https://egonat.me/slot-reservations) | Mechanism design for a decentralised storage market, with an adversarial analysis of six named attacker classes and a written record of every mechanism rejected along the way. Shipped. |
 | [**Marketplace state restoration**](https://egonat.me/marketplace-state-restoration) | Two competing on-chain architectures, built and benchmarked rather than argued about. Worst-case gas fell from 3,115,596 to 302,584, priced in EUR at live rates. |
@@ -31,7 +28,6 @@ Below are some real world examples of protocol work to showcase how I approach p
 
 ### Track
 
-| | | |
 |---|---|---|
 | 2025–2026 | Engineering Lead, Logos Storage | Protocol direction, interop, roadmap |
 | 2024–2025 | Marketplace Team Lead, Codex | On-chain storage market, 4 reports |
