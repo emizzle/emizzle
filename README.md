@@ -31,6 +31,7 @@ Below are some real world examples of protocol work to showcase how I approach p
 [Full resume](https://egonat.me/#resume) · [PDF](https://egonat.me/Eric_Mastro_Resume.pdf)
 
 | Dates | Title | Tech |
+|---|---|---|
 | 2025–2026 | Tech Lead & Engineering Manager, Logos Storage | P2P protocols · Nim · Node.js · C# · CI/CD |
 | 2024–2025 | Tech Lead for Marketplace, Logos Storage | EVM contracts · P2P protocols · Solidity · Nim · Node.js · CI/CD |
 | 2021–2024 | Senior Distributed Networking Engineer, Logos Storage | VM contracts · P2P protocols · Solidity · Nim · Node.js · CI/CD |
