@@ -41,11 +41,14 @@ Below are some real world examples of protocol work to showcase how I approach p
 
 ---
 
-### Stack
+### Skills
 
 **Languages:** Nim, Node.js (JavaScript/TypeScript), Solidity, QML, C#, Go
+
 **Distributed systems & Web3:** Ethereum, EVM smart contracts, P2P networking, systems programming
+
 **Platform & infra:** Kubernetes, Terraform (IaC), Prometheus, Grafana, GitHub Actions, API design
+
 **Frameworks:** React, Redux, Qt, .NET
 
 ---
